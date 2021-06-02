@@ -1,7 +1,7 @@
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class Linky {
+public class SomeTestWithLinked {
     public static void main(String[] args){
         //LinkedList<String> linky = new LinkedList<String>();
         LinkedList<Integer> linky = new LinkedList<Integer>();

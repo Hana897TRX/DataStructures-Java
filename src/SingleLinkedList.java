@@ -1,13 +1,13 @@
 import java.io.PipedOutputStream;
 
-public class LinkedList {
+public class SingleLinkedList {
     protected Node root;
 
-    public LinkedList(){
+    public SingleLinkedList(){
         root = null;
     }
 
-    public LinkedList(Node n){
+    public SingleLinkedList(Node n){
         root = n;
     }
 
